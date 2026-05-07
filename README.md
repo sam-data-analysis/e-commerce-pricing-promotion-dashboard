@@ -1,4 +1,4 @@
-# Pricing Promotion Strategy Dashboard
+# E-commerce Discount & Profitability Analysis
 
 This project analyses e-commerce pricing and promotion performance to identify where discounting is supporting sales and where it is destroying profitability.
 
